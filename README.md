@@ -1,2 +1,2 @@
 # Binary Search
-This repository contains problems on binary search
+This repository contains problems on binary search from leetcode
